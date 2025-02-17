@@ -1,6 +1,6 @@
 Here’s a clean, GitHub-ready markdown note based on your setup. You can save this as `ACCESS_VMS_ACROSS_SUBNETS.md`:
 
-```markdown
+
 # Accessing VMs Across Different Subnets
 
 **Scenario**:  
@@ -105,5 +105,3 @@ Securely tunnel traffic to the `172.16.245.x` subnet.
 
 License: [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/) (Free to use/modify).
 ```
-
-This note is concise, formatted for readability on GitHub, and includes code snippets, tables, and clear instructions. You can tweak the IPs or commands as needed!

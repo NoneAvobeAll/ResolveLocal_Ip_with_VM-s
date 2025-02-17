@@ -1,6 +1,3 @@
-Here’s a clean, GitHub-ready markdown note based on your setup. You can save this as `ACCESS_VMS_ACROSS_SUBNETS.md`:
-
-
 # Accessing VMs Across Different Subnets
 
 **Scenario**:  
